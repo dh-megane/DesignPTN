@@ -1,7 +1,0 @@
-D:\SRC\Design_Pattern\Chapter7\Chapter7\bin\Debug\Chapter7.exe.config
-D:\SRC\Design_Pattern\Chapter7\Chapter7\bin\Debug\Chapter7.exe
-D:\SRC\Design_Pattern\Chapter7\Chapter7\bin\Debug\Chapter7.pdb
-D:\SRC\Design_Pattern\Chapter7\Chapter7\obj\Debug\Chapter7.csprojAssemblyReference.cache
-D:\SRC\Design_Pattern\Chapter7\Chapter7\obj\Debug\Chapter7.csproj.CoreCompileInputs.cache
-D:\SRC\Design_Pattern\Chapter7\Chapter7\obj\Debug\Chapter7.exe
-D:\SRC\Design_Pattern\Chapter7\Chapter7\obj\Debug\Chapter7.pdb

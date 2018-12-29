@@ -1,7 +1,0 @@
-D:\SRC\DesignPTN\DesignPTN\Chapter2\bin\Debug\Chapter2.exe.config
-D:\SRC\DesignPTN\DesignPTN\Chapter2\bin\Debug\Chapter2.exe
-D:\SRC\DesignPTN\DesignPTN\Chapter2\bin\Debug\Chapter2.pdb
-D:\SRC\DesignPTN\DesignPTN\Chapter2\obj\Debug\Chapter2.csprojAssemblyReference.cache
-D:\SRC\DesignPTN\DesignPTN\Chapter2\obj\Debug\Chapter2.csproj.CoreCompileInputs.cache
-D:\SRC\DesignPTN\DesignPTN\Chapter2\obj\Debug\Chapter2.exe
-D:\SRC\DesignPTN\DesignPTN\Chapter2\obj\Debug\Chapter2.pdb

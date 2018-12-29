@@ -1,7 +1,0 @@
-D:\SRC\DesignPTN\DesignPTN\Chapter8\bin\Debug\Chapter8.exe.config
-D:\SRC\DesignPTN\DesignPTN\Chapter8\bin\Debug\Chapter8.exe
-D:\SRC\DesignPTN\DesignPTN\Chapter8\bin\Debug\Chapter8.pdb
-D:\SRC\DesignPTN\DesignPTN\Chapter8\obj\Debug\Chapter8.csprojAssemblyReference.cache
-D:\SRC\DesignPTN\DesignPTN\Chapter8\obj\Debug\Chapter8.csproj.CoreCompileInputs.cache
-D:\SRC\DesignPTN\DesignPTN\Chapter8\obj\Debug\Chapter8.exe
-D:\SRC\DesignPTN\DesignPTN\Chapter8\obj\Debug\Chapter8.pdb
