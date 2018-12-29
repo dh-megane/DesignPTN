@@ -15,8 +15,8 @@ namespace Chapter8.TableFactory
         {
             StringBuilder builder = new StringBuilder();
             builder.AppendLine("<td>");
-            builder.AppendLine("<table width='100' border='1px'><tr>");
-            builder.AppendLine($"<td background='#CCCCCC' align='center' " +
+            builder.AppendLine("<table style='width:100%;' border='1px' ><tr>");
+            builder.AppendLine($"<td style='background:#CCCCCC; text-align:center;' " +
                 $"colspan='{ _tray.Count }'><b>{ _caption }</b></td>");
 
             builder.AppendLine("</tr>");

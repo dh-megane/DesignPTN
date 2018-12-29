@@ -17,7 +17,7 @@ namespace Chapter8.TableFactory
             builder.AppendLine($"<html><head><title>{ _title }</title></head>");
             builder.AppendLine("<body>");
             builder.AppendLine($"<h1>{ _title }</h1>");
-            builder.AppendLine("<table width='80' border='3px' ''>");
+            builder.AppendLine("<table style='width:100%;' border='1px'>");
 
             foreach(var item in _content)
             {
