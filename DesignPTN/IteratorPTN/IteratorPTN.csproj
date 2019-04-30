@@ -45,7 +45,8 @@
   <ItemGroup>
     <Compile Include="Book.cs" />
     <Compile Include="BookShelf.cs" />
-    <Compile Include="BookShelfIterator.cs" />
+    <Compile Include="BookShelfIteratorAsc.cs" />
+    <Compile Include="BookShelfIteratorDesc.cs" />
     <Compile Include="IAggregate.cs" />
     <Compile Include="Iterator.cs" />
     <Compile Include="Program.cs" />

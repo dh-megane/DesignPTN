@@ -6,24 +6,25 @@ using System.Threading.Tasks;
 
 namespace IteratorPTN
 {
-    public class BookShelfIterator : IIterator
+    public class BookShelfIteratorDesc : IIterator
     {
         private BookShelf BookShelf;
         private int Index;
 
-        public BookShelfIterator(BookShelf bookShelf)
+        public BookShelfIteratorDesc(BookShelf bookShelf)
         {
             BookShelf = bookShelf;
+            Index = BookShelf.GetLength() - 1;
         }
 
         public bool HasNext()
         {
-            return BookShelf.GetLength() != Index;
+            return -1 != Index;
         }
 
         public Object Next()
         {
-            return BookShelf.GetBookAt(Index++);
+            return BookShelf.GetBookAt(Index--);
         }
     }
 }

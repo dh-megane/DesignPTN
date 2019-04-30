@@ -9,6 +9,6 @@ namespace IteratorPTN
 {
     public interface IAggregate
     {
-        IIterator Iterator();
+        IIterator Iterator(int type);
     }
 }

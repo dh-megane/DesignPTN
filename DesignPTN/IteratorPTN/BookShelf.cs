@@ -35,9 +35,19 @@ namespace IteratorPTN
             return Last;
         }
 
-        public IIterator Iterator()
+        public IIterator Iterator(int type)
         {
-            return new BookShelfIterator(this);
+            IIterator it;
+            if (type == 1)
+            {
+                it = new BookShelfIteratorAsc(this);
+            }
+            else
+            {
+                it = new BookShelfIteratorDesc(this);
+            }
+
+            return it;
         }
     }
 }

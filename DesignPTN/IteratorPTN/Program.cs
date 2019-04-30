@@ -21,7 +21,7 @@ namespace IteratorPTN
             bookShelf.AppendBook(Book3);
             bookShelf.AppendBook(Book4);
 
-            var iterator = bookShelf.Iterator();
+            var iterator = bookShelf.Iterator(2);
             while (iterator.HasNext())
             {
                 Book book = (Book)iterator.Next();
