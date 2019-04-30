@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter4", "Chapter4\Chapte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter1", "Chapter1\Chapter1.csproj", "{CE690833-FC2A-46F5-9FF5-833C1DE6BF84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPTN", "IteratorPTN\IteratorPTN.csproj", "{8DD7C7D1-3A39-48F5-BE88-91FE3AA506FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{CE690833-FC2A-46F5-9FF5-833C1DE6BF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE690833-FC2A-46F5-9FF5-833C1DE6BF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE690833-FC2A-46F5-9FF5-833C1DE6BF84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD7C7D1-3A39-48F5-BE88-91FE3AA506FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD7C7D1-3A39-48F5-BE88-91FE3AA506FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD7C7D1-3A39-48F5-BE88-91FE3AA506FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD7C7D1-3A39-48F5-BE88-91FE3AA506FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
